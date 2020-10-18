@@ -6,4 +6,4 @@ namePrefix: dev-
 images:
 - name: xavicampa/xavic-test
   newName: xavicampa/xavic-test
-  newTag: 177000900a72c7b070f6e927248a2f5bfc07aa40
+  newTag: ffefdf929d3f9d4e86f1d3a1070b77c14a7d5180
