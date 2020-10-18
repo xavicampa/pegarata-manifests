@@ -6,4 +6,4 @@ kind: Kustomization
 images:
 - name: xavic-test
   newName: xavicampa/xavic-test
-  newTag: cc5501d842e849a8e5ac2f310b88903f9a9596b0
+  newTag: 5b3c1cb436f4e4c3b2fdf280aa99ca53ac4eeef5
