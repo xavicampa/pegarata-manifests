@@ -1,9 +1,3 @@
 resources:
 - deployment.yaml
 - service.yaml
-apiVersion: kustomize.config.k8s.io/v1beta1
-kind: Kustomization
-images:
-- name: xavic-test
-  newName: xavicampa/xavic-test
-  newTag: f7b3361b97f72088421e8b4ee3207bcc02f76cea
