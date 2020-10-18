@@ -7,3 +7,6 @@ images:
 - name: xavic-test
   newName: xavicampa/xavic-test
   newTag: 721a17f834c7ad009ef6266d688618422f010f90
+- name: xavicampa/xavic-test
+  newName: xavicampa/xavic-test
+  newTag: 8cd157a3c39c1b2b8cc3aa642974ca6be655a9d3
