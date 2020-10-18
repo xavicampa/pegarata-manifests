@@ -1,3 +1,9 @@
-bases:
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+resources:
 - ../base
 namePrefix: dev-
+images:
+- name: xavic-test
+  newName: xavicampa/xavic-test
+  newTag: 721a17f834c7ad009ef6266d688618422f010f90
