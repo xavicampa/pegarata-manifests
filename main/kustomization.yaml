@@ -5,4 +5,4 @@ resources:
 images:
 - name: xavicampa/xavic-test
   newName: xavicampa/xavic-test
-  newTag: main-118
+  newTag: main-97
