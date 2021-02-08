@@ -1,1 +1,1 @@
-# xavic-test-manifests
+pegarata-manifests
