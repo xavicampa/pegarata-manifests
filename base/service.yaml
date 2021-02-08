@@ -1,10 +1,10 @@
 apiVersion: v1
 kind: Service
 metadata:
-    name: xavictest-service
+    name: pegarata-api-service
 spec:
     selector:
-        app: xavic-test
+        app: pegarata-api
     type: LoadBalancer
     ports:
     -   port: 8080
