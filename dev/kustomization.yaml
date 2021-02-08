@@ -4,6 +4,6 @@ resources:
 - ../base
 namePrefix: dev-
 images:
-- name: xavicampa/xavic-test
-  newName: xavicampa/xavic-test
+- name: xavicampa/pegarata-api
+  newName: xavicampa/pegarata-api
   newTag: ba4b7cc45ae810b65a792fab09507ae84b04a52b
