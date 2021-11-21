@@ -5,7 +5,7 @@ metadata:
 spec:
     selector:
         app: pegarata-api
-    type: LoadBalancer
+    type: NodePort
     ports:
     -   port: 8080
         targetPort: 8080
