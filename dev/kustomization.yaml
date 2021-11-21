@@ -6,4 +6,4 @@ namePrefix: dev-
 images:
 - name: xavicampa/pegarata-api
   newName: xavicampa/pegarata-api
-  newTag: 9efc5cb59767a813e308895580f9fee4f6de1ac2
+  newTag: d323d4ed9c8c4dc4aa51333ad7c3264e2bbbd65c
