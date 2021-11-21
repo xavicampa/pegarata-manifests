@@ -3,3 +3,7 @@ kind: Kustomization
 resources:
 - ../base
 namePrefix: stage-
+images:
+- name: xavicampa/pegarata-api
+  newName: xavicampa/pegarata-api
+  newTag: d323d4ed9c8c4dc4aa51333ad7c3264e2bbbd65c
