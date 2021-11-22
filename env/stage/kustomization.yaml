@@ -6,4 +6,4 @@ namePrefix: stage-
 images:
 - name: xavicampa/pegarata-api
   newName: xavicampa/pegarata-api
-  newTag: 2354ab0d23b9ee54828e39e579e4cb13f939e85c
+  newTag: e3a90ef7df2b96c479300fde0cf7149ecdf9ac2a
