@@ -5,4 +5,4 @@ resources:
 images:
 - name: xavicampa/pegarata-api
   newName: xavicampa/pegarata-api
-  newTag: e3a90ef7df2b96c479300fde0cf7149ecdf9ac2a
+  newTag: d011a079eabd0d68f952fb162017c9d33a8cef45
